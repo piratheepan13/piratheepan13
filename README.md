@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ww38.rishavchanda.io/)
+[![MasterHead](https://camo.githubusercontent.com/3c1652fdf69ff87e667d2c67701b8a7aebb25fbb88a8f539834710848d7ff80f/68747470733a2f2f7777772e736f667470726f646967792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30362f4a532d446576656c6f706d656e742d4769662e676966)
 <h1 align="center">Hi 👋, I'm Thanapalu Piratheepan</h1>
 <h3 align="center">A passionate fullstack developer from Srilanka</h3>
 
