@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **piratheepan1398@gmail.com**
 
-- ⚡ Fun fact **I am funn when i am with my people.**
+- ⚡ Fun & passion fact **I am coding and learning related topics for 7 hours every day.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
