@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [MERN Stack](https://www.youtube.com/watch?v=-42K44A1oMA&t=220s)
 
-- 🌱 I’m currently learning **MERN full stack**
+- 🌱 I’m currently learning **Next JS ,MERN full stack**
 
 - 👯 I’m looking to collaborate on **fullstack develop site**
 
