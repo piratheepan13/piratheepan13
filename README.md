@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/3c1652fdf69ff87e667d2c67701b8a7aebb25fbb88a8f539834710848d7ff80f/68747470733a2f2f7777772e736f667470726f646967792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30362f4a532d446576656c6f706d656e742d4769662e676966)
 <h1 align="center">Hi 👋, I'm Thanapalu Piratheepan</h1>
-<h3 align="center">A Passionate Full Stack Developer From Srilanka</h3>
+<h3 align="center">A Passionate AI assisted Engineer From Srilanka</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [MERN Stack](https://www.youtube.com/watch?v=-42K44A1oMA&t=220s)
+- 🔭 I’m currently working on AI Engineering
 
-- 🌱 I’m currently learning **Next JS ,MERN full stack**
+- 🌱 I’m currently learning **Vibe coding AI Tools**
 
-- 👯 I’m looking to collaborate on **fullstack develop site**
+- 👯 I’m looking to collaborate on **Full stack develop site**
 
-- 💬 Ask me about **React , MERN**
+- 💬 Ask me about **AI agent & AI Engineering**
 
 - 📫 How to reach me **piratheepan1398@gmail.com**
 
-- ⚡ Fun & passion fact **I am coding and learning related topics for 7 hours every day.**
+- ⚡ Fun & passion fact **I am coding and learning AI Innnovation related topics for 5 hours every day.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
